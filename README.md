@@ -18,7 +18,7 @@ npm i
 npm run dev
 ```
 
-URL API: http://localhost:5173
+URL API: http://localhost:3000
 
 # Screenshots
 <p align="center">
