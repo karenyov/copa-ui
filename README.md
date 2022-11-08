@@ -22,6 +22,6 @@ URL API: http://localhost:5173
 
 # Screenshots
 <p align="center">
-  <img src="https://github.com/karenyov/copa-ui/blob/main/app.gif" width="700">
+  <img src="https://github.com/karenyov/copa-ui/blob/main/app.png" width="700">
 </p>
 
