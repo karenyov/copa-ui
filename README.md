@@ -1,6 +1,8 @@
 # Copa UI ⚽ 🇧🇷
 Trilha Ignite NLW Copa - [Rocketseat](https://lp.rocketseat.com.br/nlw).
 
+Link [API](https://github.com/karenyov/copa-api).
+
 Este repositório contém o código desenvolvido na parte da UI.
 
 ## Requisitos
